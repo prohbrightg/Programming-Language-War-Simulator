@@ -1,0 +1,2 @@
+# Planning
+Ensure results are correctly filtered by status
